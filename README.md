@@ -20,6 +20,24 @@
 </p>
 <br />
 
+
+# Actualmente desarrollando esta completa app
+
+- Landing page, no acceder con google, de momento funciona con mis mails de prueba.
+- <a href="https://profut.vercel.app/">ProFut</a>
+- Ingresar con algun user de prueba que figuran abajo, el register no esta implementado
+- Una vez dentro se obserba un proyecto en el fron con Next JS y muchas utilidades y trabajo de investigacion.
+- El backend desplegado en heroku y una base de datos mongoDB
+- Una pequeña documentacion de la API:
+- <a href="https://profut.herokuapp.com/docs/">Documentacion API ProFut</a>
+
+# Tambien realizando para mi hija
+
+- Siguiendo pasos del youtuber goncy 
+- Aprendiendo TypeScript
+- Poniendome serio en los test tanto unitarios como de integracion
+- <a href="https://aromasdelcorazon.vercel.app/">eCommerce Aromas del Corazon</a>
+         
 ---
 
 
