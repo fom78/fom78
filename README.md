@@ -23,6 +23,8 @@
 
 # Actualmente desarrollando esta completa app
 
+<a href="https://github.com/fom78/profut.info">Informacion sobre ProFut</a>
+<br />
 - Landing page, no acceder con google, de momento funciona con mis mails de prueba.
 - <a href="https://profut.vercel.app/">ProFut</a>
 - Ingresar con algun user de prueba que figuran abajo, el register no esta implementado
