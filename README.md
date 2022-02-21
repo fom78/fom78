@@ -25,9 +25,8 @@
 
 <a href="https://github.com/fom78/profut.info">Informacion sobre ProFut</a>
 <br />
-- Landing page, no acceder con google, de momento funciona con mis mails de prueba.
+- Landing page, presentacion de la app, solo ingresar con cuentas de Gmail, por ahora.
 - <a href="https://profut.vercel.app/">ProFut</a>
-- Ingresar con algun user de prueba que figuran abajo, el register no esta implementado
 - Una vez dentro se obserba un proyecto en el fron con Next JS y muchas utilidades y trabajo de investigacion.
 - El backend desplegado en heroku y una base de datos mongoDB
 - Una pequeña documentacion de la API:
