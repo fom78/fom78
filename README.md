@@ -27,7 +27,7 @@
 <br />
 - Landing page, presentacion de la app, solo ingresar con cuentas de Gmail, por ahora.
 - <a href="https://profut.vercel.app/">ProFut</a>
-- Una vez dentro se obserba un proyecto en el fron con Next JS y muchas utilidades y trabajo de investigacion.
+- Una vez dentro se observa un proyecto en el front con Next JS y muchas utilidades y trabajo de investigacion.
 - El backend desplegado en heroku y una base de datos mongoDB
 - Una pequeña documentacion de la API:
 - <a href="https://profut.herokuapp.com/docs/">Documentacion API ProFut</a>
