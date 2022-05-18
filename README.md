@@ -21,23 +21,14 @@
 <br />
 
 
-# Actualmente desarrollando esta completa app
+# Actualmente realizando aceleracion de Alkemy Fullstack JS
+<img  src="https://assets-dev.alkemy.org/assets/logo.svg"/>
 
-<a href="https://github.com/fom78/profut.info">Informacion sobre ProFut</a>
+Repositorio del <a href="https://github.com/alkemyTech/OT172-server">Backend</a>
 <br />
-- Landing page, presentacion de la app, solo ingresar con cuentas de Gmail, por ahora.
-- <a href="https://profut.vercel.app/">ProFut</a>
-- Una vez dentro se observa un proyecto en el front con Next JS y muchas utilidades y trabajo de investigacion.
-- El backend desplegado en heroku y una base de datos mongoDB
-- Una pequeña documentacion de la API:
-- <a href="https://profut.herokuapp.com/docs/">Documentacion API ProFut</a>
+Repositorio del <a href="https://github.com/alkemyTech/OT172-client-js">Frontend</a>
+<br />
 
-# Tambien realizando para mi hija
-
-- Siguiendo pasos del youtuber goncy 
-- Aprendiendo TypeScript
-- Poniendome serio en los test tanto unitarios como de integracion
-- <a href="https://aromasdelcorazon.vercel.app/">eCommerce Aromas del Corazon</a>
          
 ---
 
