@@ -21,14 +21,7 @@
 <br />
 
 
-# Actualmente realizando aceleracion de Alkemy Fullstack JS
-<img  src="https://assets-dev.alkemy.org/assets/logo.svg"/>
-
-Repositorio del <a href="https://github.com/alkemyTech/OT172-server">Backend</a>
-<br />
-Repositorio del <a href="https://github.com/alkemyTech/OT172-client-js">Frontend</a>
-<br />
-
+# Actualmente abierto a la oferta laboral Fullstack JS
          
 ---
 
